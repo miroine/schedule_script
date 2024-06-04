@@ -6,4 +6,9 @@ scipy
 seaborn
 statistics
 datetime
+requests
+pathlib
+pandas
+numpy
 openpyxl
+
