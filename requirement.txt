@@ -1,0 +1,8 @@
+plotly
+pandas
+numpy
+streamlit
+scipy
+seaborn
+statistics
+datetime
