@@ -1,0 +1,13 @@
+plotly
+pandas
+numpy
+streamlit
+scipy
+seaborn
+statistics
+datetime
+requests
+pathlib
+pandas
+numpy
+openpyxl
